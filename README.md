@@ -1,10 +1,10 @@
-# 🔐 AI Ransomware Detection System
+AI Ransomware Detection System
 
 An intelligent machine learning-based system designed to detect ransomware activity by analyzing file behavior and system patterns in real-time.
 
 ---
 
-## 🚀 Overview
+ Overview
 
 Ransomware is a major cybersecurity threat that encrypts user data and demands payment.
 This project uses **machine learning and behavioral analysis** to identify suspicious activity such as:
@@ -16,7 +16,7 @@ This project uses **machine learning and behavioral analysis** to identify suspi
 
 ---
 
-## 🧠 Features
+ Features
 
 ✔ Machine Learning-based detection
 ✔ Real-time analysis of file behavior
@@ -26,17 +26,17 @@ This project uses **machine learning and behavioral analysis** to identify suspi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-* **Python** 🐍
-* **Flask** 🌐
-* **Scikit-learn** 🤖
-* **Pandas & NumPy** 📊
-* **HTML / CSS** 🎨
+* **Python** 
+* **Flask** 
+* **Scikit-learn** 
+* **Pandas & NumPy** 
+* **HTML / CSS** 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 RansomwareDetection/
@@ -54,27 +54,27 @@ RansomwareDetection/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
-### 1️⃣ Install dependencies
+###  Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️⃣ Train the model (optional)
+### 2️ Train the model (optional)
 
 ```bash
 python train_model.py
 ```
 
-### 3️⃣ Run the web app
+### 3️ Run the web app
 
 ```bash
 python app.py
 ```
 
-### 4️⃣ Open in browser
+### 4️ Open in browser
 
 ```
 http://127.0.0.1:5000
@@ -82,18 +82,18 @@ http://127.0.0.1:5000
 
 
 
-## 📸 Demo
+##  Demo
 
 (Add screenshots here for better presentation)
 
 
 
-## ⚠️ Note
+##  Note
 
 This project is for **educational purposes only** and demonstrates how machine learning can be applied in cybersecurity.
 
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Real-time system monitoring integration
 * Deep learning-based detection
