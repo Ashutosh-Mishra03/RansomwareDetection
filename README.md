@@ -18,11 +18,11 @@ This project uses **machine learning and behavioral analysis** to identify suspi
 
  Features
 
-✔ Machine Learning-based detection
-✔ Real-time analysis of file behavior
-✔ Flask-based web interface
-✔ Lightweight and easy to run
-✔ User-friendly input system
+Machine Learning-based detection
+ Real-time analysis of file behavior
+ Flask-based web interface
+ Lightweight and easy to run
+User-friendly input system
 
 ---
 
